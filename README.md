@@ -1,4 +1,3 @@
-# Fruit_dettectionML
 # Fruit Classification and Freshness Detection System
 
 This Python-based system allows you to collect fruit image data, train a machine learning model, and perform real-time fruit classification and freshness detection using a live camera feed.
